@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Teams',
+			icon: 'book-open',
+			link: 'https://teams.microsoft.com/',
 		},
 	],
 
