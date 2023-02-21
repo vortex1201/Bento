@@ -79,7 +79,7 @@ const CONFIG = {
 
 	secondButtonsContainer: [
 		{
-			id: '3',
+			id: '2',
 			name: 'Discord',
 			icon: 'bot',
 			link: 'https://discord.com/app',
