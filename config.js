@@ -82,7 +82,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Discord',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '4',
