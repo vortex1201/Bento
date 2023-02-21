@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Movies',
+			icon: 'clapperboard',
+			link: 'https://moviesjoy.to/',
 		},
 	],
 
