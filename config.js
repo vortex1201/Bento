@@ -92,9 +92,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Chess',
+			icon: 'dices',
+			link: 'https://chess.com',
 		},
 		{
 			id: '6',
