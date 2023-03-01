@@ -44,6 +44,7 @@
   --sfg: #2c292e; /* Secondary Foreground color */
   
   /* Image background  */
+  --imgbg: url(assets/background.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(149, 165, 166, 1),
     rgba(149, 165, 166, 1)
