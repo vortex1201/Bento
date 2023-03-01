@@ -46,8 +46,8 @@
   /* Image background  */
   --imgbg: url(assets/background.jpg);
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.45),
-    rgba(0, 0, 0, 0.45)
+    rgba(0, 0, 0, 0.25),
+    rgba(0, 0, 0, 0.25)
   ); /* Filter color */
 }
 
