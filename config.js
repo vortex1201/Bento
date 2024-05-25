@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Movies',
 			icon: 'clapperboard',
-			link: 'https://moviesjoy.to/',
+			link: 'https://www.braflix.video',
 		},
 	],
 
